@@ -1,0 +1,14 @@
+[project]
+name = "legal-document-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "langchain-google-genai>=2.1.12",
+    "openai>=1.108.1",
+    "python-dateutil>=2.9.0.post0",
+    "streamlit>=1.49.1",
+]
