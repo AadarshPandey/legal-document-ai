@@ -11,4 +11,12 @@ dependencies = [
     "openai>=1.108.1",
     "python-dateutil>=2.9.0.post0",
     "streamlit>=1.49.1",
+    "chromadb",
+    "sentence-transformers",
+    "transformers",
+    "pdfplumber",
+    "python-docx",
+    "numpy",
+    "python-dotenv",
+    "tf-keras"
 ]
